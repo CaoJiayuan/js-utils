@@ -1,0 +1,23 @@
+{
+  "name": "nerio-js-utils",
+  "version": "1.0.0",
+  "description": "JS utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoJiayuan/js-utils.git"
+  },
+  "keywords": [
+    "JS",
+    "Utils"
+  ],
+  "author": "CaoJiayuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaoJiayuan/js-utils/issues"
+  },
+  "homepage": "https://github.com/CaoJiayuan/js-utils#readme"
+}
