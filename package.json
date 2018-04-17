@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/CaoJiayuan/js-utils/issues"
   },
-  "homepage": "https://github.com/CaoJiayuan/js-utils#readme"
+  "homepage": "https://github.com/CaoJiayuan/js-utils#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
 }
