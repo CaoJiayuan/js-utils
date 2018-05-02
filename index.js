@@ -1,5 +1,7 @@
-import * as uploader from './uploader';
+import * as uploader from './lib/uploader';
+import * as functions from './lib/functions';
 
 export {
-  uploader
+  uploader,
+  functions,
 }
