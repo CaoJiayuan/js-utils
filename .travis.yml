@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: cjy632258@hotmail.com
+  api_key:
+    secure: OZZFnsooK2w1fA+HGkfBB4QyTBYpU2yScQbZm4xApK7QiM85ZLZkDVdASJqzC5UKGG7wXLIKhRb/CW2snwiqCvc0J/V8Dtnt6tYqm97LoJwYHOw1xs+HfgNwRAHOzcVH/ruqa6ldkjxcYm4qf+MpIOW86m7agDuDj/IgjVBUsXdfPXUMjvbSUjeaStVsS5x39oGm3Rn5noFLsdf8yXMZseVJIuel4/S3eRR8yBgZ9G47MB5Xo1wqab07EhQ0vRHphQxJwNetuPJ8lua1/LW9sVLUJO70EDueRt/UQY1E6iBKFFWGisLIM0yVIbis0YLpd54oGnSEa/FNRCOIcDelovE3PBSS0pQVXUfjfwSExd9QA+9B6WA3k+mqwal/fO7D3Per4wEZXXEhYLlrPYyBruGEsAQN/4OpDMRod7guyl6zWbpSLR8eVe6NskWU9tO5DpTk7PoE7Fkb6Cgkh2RUw6vVARD8RPXe288+zePzLjYbhOZAiORrICd4wfzDmzJ149ZMmPlhWUtxZeLCsEBzT7QZHTTKT0kCmDK887fSpkG2tWEscoTLr1kKJYMZvNaacOg84LFi6aw7dXthTQZfFOeFOa57AIYcx24MPYS5W17h5LIC+q5zZQqg7as+4sfa0n+7IOo4ULuIuNNjnU7Of0fSh3brKYbXLjsgNFaEtH4=
+  on:
+    branch: master
+    repo: CaoJiayuan/js-utils
