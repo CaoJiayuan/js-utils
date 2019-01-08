@@ -14,6 +14,7 @@ declare module 'vue/types/vue' {
 
 declare class BrowserStorage {
     static install : PluginFunction<never>
+    new(): BrowserStorage
 }
 
 export default BrowserStorage

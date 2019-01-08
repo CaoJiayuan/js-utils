@@ -22,8 +22,8 @@ declare interface UploadFile {
 
 declare const fileUpload: (el: HTMLElement, url: string, configs ?: UploadOptions) => void;
 declare const upload: (file: File, url: string, configs ?: UploadOptions) => void;
-const DRIVER_OSS = 'oss';
-const DRIVER_SERVER = 'server';
+declare const DRIVER_OSS = 'oss';
+declare const DRIVER_SERVER = 'server';
 export {
     fileUpload,
     upload,
