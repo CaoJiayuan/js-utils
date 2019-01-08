@@ -1,6 +1,6 @@
 {
     "name": "nerio-js-utils",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "JS utils",
     "main": "index.js",
     "scripts": {
